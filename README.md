@@ -1,2 +1,2 @@
 # for_offer
-刷练习剑指offer练习rust
+刷剑指offer练习rust
