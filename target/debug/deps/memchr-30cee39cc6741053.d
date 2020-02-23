@@ -1,0 +1,11 @@
+/Users/xiaohongwei/projects/for_offer/target/debug/deps/memchr-30cee39cc6741053.rmeta: /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/lib.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/fallback.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/iter.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/naive.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/mod.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/avx.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/sse2.rs
+
+/Users/xiaohongwei/projects/for_offer/target/debug/deps/memchr-30cee39cc6741053.d: /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/lib.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/fallback.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/iter.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/naive.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/mod.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/avx.rs /Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/sse2.rs
+
+/Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/lib.rs:
+/Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/fallback.rs:
+/Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/iter.rs:
+/Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/naive.rs:
+/Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/mod.rs:
+/Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/avx.rs:
+/Users/xiaohongwei/.cargo/registry/src/mirrors.ustc.edu.cn-b63e9dae659fc205/memchr-2.3.2/src/x86/sse2.rs:
